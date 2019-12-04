@@ -1,0 +1,6 @@
+D:\Homework C#\Classes_VUE\Classes_VUE\bin\Debug\Classes_VUE.exe.config
+D:\Homework C#\Classes_VUE\Classes_VUE\bin\Debug\Classes_VUE.exe
+D:\Homework C#\Classes_VUE\Classes_VUE\bin\Debug\Classes_VUE.pdb
+D:\Homework C#\Classes_VUE\Classes_VUE\obj\Debug\Classes_VUE.exe
+D:\Homework C#\Classes_VUE\Classes_VUE\obj\Debug\Classes_VUE.pdb
+D:\Homework C#\Classes_VUE\Classes_VUE\obj\Debug\Classes_VUE.csprojResolveAssemblyReference.cache

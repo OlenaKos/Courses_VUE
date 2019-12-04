@@ -1,0 +1,6 @@
+D:\Homework C#\Classes_VUE\ClassesTask5\bin\Debug\ClassesTask5.exe.config
+D:\Homework C#\Classes_VUE\ClassesTask5\obj\Debug\ClassesTask5.csprojResolveAssemblyReference.cache
+D:\Homework C#\Classes_VUE\ClassesTask5\bin\Debug\ClassesTask5.exe
+D:\Homework C#\Classes_VUE\ClassesTask5\bin\Debug\ClassesTask5.pdb
+D:\Homework C#\Classes_VUE\ClassesTask5\obj\Debug\ClassesTask5.exe
+D:\Homework C#\Classes_VUE\ClassesTask5\obj\Debug\ClassesTask5.pdb

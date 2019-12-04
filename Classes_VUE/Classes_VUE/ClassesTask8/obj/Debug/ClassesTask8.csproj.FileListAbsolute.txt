@@ -1,0 +1,6 @@
+D:\Homework C#\Classes_VUE\ClassesTask8\bin\Debug\ClassesTask8.exe.config
+D:\Homework C#\Classes_VUE\ClassesTask8\bin\Debug\ClassesTask8.exe
+D:\Homework C#\Classes_VUE\ClassesTask8\bin\Debug\ClassesTask8.pdb
+D:\Homework C#\Classes_VUE\ClassesTask8\obj\Debug\ClassesTask8.csprojResolveAssemblyReference.cache
+D:\Homework C#\Classes_VUE\ClassesTask8\obj\Debug\ClassesTask8.exe
+D:\Homework C#\Classes_VUE\ClassesTask8\obj\Debug\ClassesTask8.pdb
